@@ -1,3 +1,12 @@
 [submodule "safesession"]
 	path = safesession
 	url = git@github.com:koshikraj/safesession.git
+[submodule "spendlimit-session"]
+	path = spendlimit-session
+	url = https://github.com/koshikraj/spendlimit-session
+[submodule "safe-7579-validator"]
+	path = safe-7579-validator
+	url = https://github.com/koshikraj/safe-7579-demo
+[submodule "safesub"]
+	path = safesub
+	url = https://github.com/koshikraj/safesub
