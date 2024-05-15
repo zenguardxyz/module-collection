@@ -1,0 +1,3 @@
+[submodule "safesession"]
+	path = safesession
+	url = git@github.com:koshikraj/safesession.git
