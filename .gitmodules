@@ -14,3 +14,7 @@
 	path = safesub
 	url = https://github.com/koshikraj/safesub
 	branch = main	
+[submodule "safe-passkey-validator"]
+	path = safe-passkey-validator
+	url = https://github.com/koshikraj/safe-passkey-validator
+	branch = main
