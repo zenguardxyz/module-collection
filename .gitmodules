@@ -10,3 +10,4 @@
 [submodule "safesub"]
 	path = safesub
 	url = https://github.com/koshikraj/safesub
+	branch = main	
