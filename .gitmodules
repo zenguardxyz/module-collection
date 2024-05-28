@@ -18,3 +18,12 @@
 	path = safe-passkey-validator
 	url = https://github.com/koshikraj/safe-passkey-validator
 	branch = main
+[submodule "safe-whitelist-hook"]
+	path = safe-whitelist-hook
+	url = https://github.com/koshikraj/safe-whitelist-hook
+[submodule "safe-blacklist-hook"]
+	path = safe-blacklist-hook
+	url = https://github.com/koshikraj/safe-blacklist-hook
+[submodule "safelink"]
+	path = safelink
+	url = https://github.com/koshikraj/safelink
