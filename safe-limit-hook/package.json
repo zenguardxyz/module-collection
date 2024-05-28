@@ -1,0 +1,30 @@
+{
+  "name": "safe-limit-hook",
+  "version": "1.0.0",
+  "description": "Safe spend limit hook and app",
+  "main": "dist/index.js",
+  "workspaces": [
+    "packages/*",
+    "module"
+  ],
+  "scripts": {
+    "fmt:global": "prettier --write .",
+    "fmt:global-check": "prettier --check .",
+    "postinstall": "npm rebuild --skip-scripts @safe-global/safe-4337-local-bundler"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zenguard/module-collection.git"
+  },
+  "author": "koshikraj",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/zenguard/module-collection/issues"
+  },
+  "homepage": "https://github.com/zenguard/module-collection/#readme",
+  "keywords": [
+    "Ethereum",
+    "7579",
+    "Safe"
+  ]
+}

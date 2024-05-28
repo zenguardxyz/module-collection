@@ -27,3 +27,6 @@
 [submodule "safelink"]
 	path = safelink
 	url = https://github.com/koshikraj/safelink
+[submodule "safefaucet"]
+	path = safefaucet
+	url = https://github.com/koshikraj/safefaucet
