@@ -21,12 +21,16 @@
 [submodule "safe-whitelist-hook"]
 	path = safe-whitelist-hook
 	url = https://github.com/koshikraj/safe-whitelist-hook
+	branch = main
 [submodule "safe-blacklist-hook"]
 	path = safe-blacklist-hook
 	url = https://github.com/koshikraj/safe-blacklist-hook
+	branch = main
 [submodule "safelink"]
 	path = safelink
 	url = https://github.com/koshikraj/safelink
+	branch = main
 [submodule "safefaucet"]
 	path = safefaucet
 	url = https://github.com/koshikraj/safefaucet
+	branch = main
