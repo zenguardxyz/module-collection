@@ -34,3 +34,7 @@
 	path = safefaucet
 	url = https://github.com/koshikraj/safefaucet
 	branch = main
+[submodule "smart-faucet"]
+	path = smart-faucet
+	url = https://github.com/koshikraj/smart-faucet
+	branch = main
